@@ -1,0 +1,26 @@
+{
+  "name": "jsdays2019",
+  "version": "1.0.0",
+  "description": "# JavaScript für Softwareentwickler - für Einsteiger und Umsteiger",
+  "main": "async.js",
+  "dependencies": {
+    "typescript": "^3.3.3333",
+    "ts-node": "^8.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node typescript.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sspringer82/jsdays2019.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sspringer82/jsdays2019/issues"
+  },
+  "homepage": "https://github.com/sspringer82/jsdays2019#readme"
+}

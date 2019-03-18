@@ -11,9 +11,9 @@ console.log('Hello World');
     console.log(data);
   } catch (e) {
     console.error(e);
+  } finally {
+    console.log('hallo');
   }
 })();
 
-$.ajax('http://').then(data => {});
-
-console.log('xxx');
+http.console.log('xxx');
