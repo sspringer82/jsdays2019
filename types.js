@@ -51,3 +51,7 @@ if (a) {
   //if (a == true) { // niemals == benutzen, immer ===
   console.log(a);
 }
+
+// JSON
+JSON.stringify();
+JSON.parse();
