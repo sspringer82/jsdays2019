@@ -5,7 +5,7 @@
   "main": "async.js",
   "dependencies": {
     "typescript": "^3.3.3333",
-    "ts-node": "^8.0.3"
+    "ts-node": "^8.10.2"
   },
   "devDependencies": {},
   "scripts": {
